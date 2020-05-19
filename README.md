@@ -1,4 +1,4 @@
-# Ayah Index a Stardict dictionary
+# Ayah Index [Stardict dictionary]
 ### compatible with ***Goldendict***, StarDict, ..
 A dictionary to search Quran for the corresponding ayah to a notation `(e.g 16:125)` and vice versa 
 
