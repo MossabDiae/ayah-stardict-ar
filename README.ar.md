@@ -6,3 +6,11 @@
 
 ### التثبيت
  (Goldendict) قم فقط بوضع مجلد القاموس في مكان يتعرف عليه البرنامج المستعمل
+
+
+### شكر و عرفان
+- http://qurandatabase.org/ (نسخة 18/05/2020)
+- [remove_arabic_tashkeel](https://github.com/Ahmed-Salama96/remove_arabic_tashkeel)
+
+### للقيام به
+- [ ] صنع نسخة إنجليزية
